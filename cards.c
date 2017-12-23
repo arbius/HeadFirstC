@@ -48,7 +48,7 @@ int main()
         else if (val == 10)
         {
             count--;
-            puts("Count has gone down...");
+            puts("Count has gone down....");
         }
 
         printf("The current count is: %i\n", count);
